@@ -1,0 +1,136 @@
+body{
+    margin: 0;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+header {
+    display: flex;
+    background-color: #1f2937;
+    color: #f9faf8;
+    font-size: 24px;
+}
+.c1{
+    display: flex;
+    position: absolute;
+    left: 200px;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+}
+.nav {
+    padding-left: 700px;
+    padding-right: 20px;
+    font: 18px;
+    display: flex;
+}
+p {
+    padding-right: 20px;   
+}
+.c2 {
+    padding-top: 50px;
+    background-color: #1f2937;
+    display: flex;
+}
+.c4 {
+    position: relative;
+    left: 200px;
+    background-color: #3882f6;
+    border: #3882f6;
+    border-radius: 8%;
+    color: #f9faf8;
+
+    height: 25px;
+    width: 100px;
+}
+.c5{
+    background-color: rgb(131, 129, 129);
+    width: 550px;
+    height: 220px;
+    color: #f9faf8;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.c2{
+    height: 300px;
+}
+.c6{
+    font-weight: 800;
+    font-size: 36px;
+    color: #1f2937;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+
+}
+.box{
+    border: 3px solid #3882f6 ;
+    width: 130px;
+    height: 120px;
+    border-radius: 10%;
+}
+.box-container{
+    position: relative;
+    left: 200px;
+    width: 225px;
+    display: flex;
+}
+.quote{
+    position: relative;
+    left: 200px;
+    width: 800px;
+    
+}
+.writer{
+    position: relative;
+    left: 800px;
+    font-size: 22px;
+    font-weight: bold;
+}
+.quote-container{
+    position: relative;
+    top: 150px;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #f9faf8;
+    background-color: #1f2937;
+    height: 50px;
+}
+.second-last{
+    display: flex;
+    height: 200px;
+}
+
+.c7 {
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    position: relative;
+    left: 200px;
+    top: 40px;
+    background-color: #3882f6;
+    height: 100px;
+    width: 800px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.sent{
+    position: relative;
+    left: 50px;
+}
+.button{
+    position: relative;
+    left: 200px;
+    background-color: #3882f6;
+    border-radius: 5px;
+    width: 70px;
+    border: 1px solid white;
+    color: #f9faf8;
+    height: 25px;
+}
